@@ -10,17 +10,13 @@
         android:layout_height="fill_parent"
         android:layout_weight="1"
         android:text="@string/Cliente"
-        android:background="@color/buttonBackground"
-        android:id="@+id/btClient"
-        android:padding="@dimen/padding_select_search"/>
+        android:id="@+id/btClient"/>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="fill_parent"
         android:layout_weight="1"
         android:text="@string/Pedido"
-        android:background="@color/buttonBackground"
-        android:padding="@dimen/padding_select_search"
         android:id="@+id/btPedido"/>
 
 </LinearLayout>
