@@ -1,4 +1,19 @@
 <resources>
-    <string name="app_name">RosasMobileApp</string>
+    <string name="app_name">Rosas Controle</string>
     <string name="action_settings">Settings</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="Cliente">Cliente</string>
+    <string name="Pedido">Pedido</string>
+    <string name="action_search">Search</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_share">Share</string>
+    <string name="activity_menu_name">Busca Cliente</string>
+    <string name="activity_search_client">Busca Cliente</string>
+    <string name="activity_list_pedido">Lista de Pedidos</string>
+    <string name="activity_search_pedido">Busca Pedido</string>
+    <string name="activity_list_item_pedido">Lista de Item do Pedido</string>
+    <string name="remove">Remover</string>
+    <string name="action_logout">Sair</string>
 </resources>
